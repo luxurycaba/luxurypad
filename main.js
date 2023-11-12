@@ -96,7 +96,7 @@ bienvenida.addEventListener("click", () => {
 ⚜ *LUXURY CABA* ⚜
 El mejor sitio de entretenimiento: https://jugalodos.com 🎰
 
-💰 *MÍNIMO DE CARGA $800* 💰
+💰 *MÍNIMO DE CARGA $500* 💰
 💰 *RETIRO MÍNIMO $1.500* 💰
 
 Envianos tu *NOMBRE* y *APELLIDO* así te generamos un usuario para empezar jugar 👇🏻👇🏻`;
