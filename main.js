@@ -36,9 +36,11 @@ form.addEventListener("submit", function (e) {
 ◾COMPROBANTE
 ◾USUARIO de la PLATAFORMA
 
-❌ *SIEMPRE CONSULTÁ CBU SEGUNDOS ANTES DE ENVIAR DINERO* ❌
+💰 *MÍNIMO DE CARGA $500* 💰
 
-*INGRESÁ ACÁ PARA JUGAR:* https://jugalodos.com`;
+❌ *SIEMPRE PEDINOS NUESTRO CBU SEGUNDOS ANTES DE ENVIAR DINERO* ❌
+
+*INGRESÁ ACÁ PARA JUGAR:* https://citygame.casino`;
       const elementoTemporal = document.createElement("textarea");
       elementoTemporal.value = texto;
       document.body.appendChild(elementoTemporal);
@@ -77,7 +79,7 @@ registrar.addEventListener("click", function (e) {
 ◾*TU USUARIO:* ${user}
 ◾*CONTRASEÑA:* bet123
 
-*CONSULTA CBU PARA INGRESAR DINERO* 👇🏻👇🏻`;
+*PEDINOS NUESTRO CBU PARA INGRESAR DINERO* 👇🏻👇🏻`;
   const elementoTemporal = document.createElement("textarea");
   elementoTemporal.value = texto;
   document.body.appendChild(elementoTemporal);
@@ -94,10 +96,13 @@ registrar.addEventListener("click", function (e) {
 bienvenida.addEventListener("click", () => {
   const texto = `Bienvenido/a a...
 ⚜ *LUXURY CABA* ⚜
-El mejor sitio de entretenimiento: https://jugalodos.com 🎰
+El mejor sitio de entretenimiento: https://citygame.casino 🎰
 
 💰 *MÍNIMO DE CARGA $500* 💰
 💰 *RETIRO MÍNIMO $1.500* 💰
+(RETIRO MÁXIMO: CONSULTAR FORMA DE PAGOS)
+
+💥 *DUPLICAMOS TU PRIMER CARGA* 💥
 
 Envianos tu *NOMBRE* y *APELLIDO* así te generamos un usuario para empezar jugar 👇🏻👇🏻`;
   const elementoTemporal = document.createElement("textarea");
@@ -131,6 +136,7 @@ retiro.addEventListener("click", () => {
 ◾ Alias
 
 💰 *MINIMO DE RETIRO: $1.500*  💰
+(RETIRO MÁXIMO: CONSULTAR FORMA DE PAGOS)
 
 *Su chat será archivado y enviado al sector pagos, por ende, no será leido de manera frecuente, SEA PACIENTE.*`;
   const elementoTemporal = document.createElement("textarea");
@@ -196,7 +202,7 @@ noIngreso.addEventListener("click", () => {
 });
 
 soporte.addEventListener("click", () => {
-  const texto = `Por problemas e inconvenientes con la plataforma le solicitamos que *se comunique con el soporte de la página* ingresando al cuadro de diálogo que figura en la parte superior derecha de la misma, ya que nosotros *no podemos acceder a la configuración de las máquinas.* 🎰⚠️`;
+  const texto = `Por problemas e inconvenientes con la plataforma le solicitamos que *se comunique con el soporte de la página* haciendo clic en el ícono con auriculares en la parte inferior izquierda de la pantalla o ingresando al menu y haciendo clic en el ícono de WhatsApp, ya que nosotros *no podemos acceder a la configuración de las máquinas.* 🎰⚠️`;
   const elementoTemporal = document.createElement("textarea");
   elementoTemporal.value = texto;
   document.body.appendChild(elementoTemporal);
